@@ -12,7 +12,7 @@ public class Constants
 	 * Maximum are for exports. Default assumes the area taken by a 
 	 * 10000px by 10000px image.
 	 */
-	public static final int MAX_AREA = 10000 * 10000;
+	public static final int MAX_AREA = 10001 * 10001;
 
 	/**
 	 * The domain where legacy images are stored.
